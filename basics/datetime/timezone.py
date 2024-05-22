@@ -15,7 +15,7 @@ print("UTC time:", utc_now)
 print("Local time in New York:", local_time)
 print("Local time in India:", local_time_india)
 
-## this is for how we can convert utc to ist 
+# this is for how we can convert utc to ist 
 
 # from datetime import datetime, timezone, timedelta
 
